@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13316486408",
+    "firebase_url": "https://covid19prev-da470-default-rtdb.firebaseio.com",
+    "project_id": "covid19prev-da470",
+    "storage_bucket": "covid19prev-da470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13316486408:android:6e52ffca73fed377eae8bd",
+        "android_client_info": {
+          "package_name": "com.estadia.encuesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13316486408-1dlmgraontmabi79uf37klr9l2uhio7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estadia.encuesta",
+            "certificate_hash": "2543ed18c32127ca4b6bc99ceed18f0b7b7edca1"
+          }
+        },
+        {
+          "client_id": "13316486408-rf2teg44nluhea31hb0f44rabhae6v6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YTlH7R5WaoTA5rwVtMZ7jzh_ckDmAHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13316486408-rf2teg44nluhea31hb0f44rabhae6v6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
