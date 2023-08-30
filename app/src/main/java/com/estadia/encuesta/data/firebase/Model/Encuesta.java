@@ -1,4 +1,4 @@
-package com.estadia.encuesta.Model;
+package com.estadia.encuesta.data.firebase.Model;
 
 public class Encuesta {
     private String eid;

@@ -11,6 +11,7 @@
         tools:ignore="ProtectedPermissions" />
 
     <application
+        android:name=".di.AndroidApplication"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -21,9 +22,10 @@
         <activity android:name=".AboutActivity"></activity>
         <activity android:name=".MenuComunActivity" />
         <activity android:name=".MenuAdminActivity" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".IndexActivity" />
         <activity android:name=".UsuarioActivity" />
-        <activity android:name=".IndexActivity">
+        <activity android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
